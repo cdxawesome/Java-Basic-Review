@@ -2,11 +2,6 @@ package com.simple.sort;
 
 import java.util.Arrays;
 
-/**
- * 冒泡排序优化
- * 之前的写排序方法时间复杂度都是O(n²)
- * 现在这个排序方法的时间复杂度是O(n)
- */
 public class MyBubbleSort3 {
     public static void main(String[] args) {
         int[] ns = {66, 28, 23, 73, 28, 41, 14, 25, 28, 72, 80};
